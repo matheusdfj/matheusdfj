@@ -2,7 +2,7 @@
 
 I'm **Matheus**, a 23y old developer. Working in algorithms and software development with the following stacks:
 
-**C# & .NET 10**
+## **C# & .NET 10**
 
 **Web, Mobile and Software Development:**
 - Blazor Framework
