@@ -16,7 +16,7 @@ I'm **Matheus**, a 23y old developer. Working in algorithms and software develop
 
 ## My currently working data (Via WakaTime plugin)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2020%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -28,5 +28,5 @@ CSS                      12 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 16/03/2026 19:56:19 UTC
+ Last Updated on 16/03/2026 19:56:42 UTC
 <!--END_SECTION:waka-->
