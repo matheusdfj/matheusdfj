@@ -16,19 +16,19 @@ I'm **Matheus**, a 23y old developer. Working in algorithms and software develop
 
 ## My currently working data (Via WakaTime plugin)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2040%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Razor                    2 hrs 6 mins        ███████████░░░░░░░░░░░░░░   42.09 % 
-Binary                   1 hr 53 mins        ██████████░░░░░░░░░░░░░░░   38.05 % 
-CSHTML                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-C#                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Razor                    2 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   40.38 % 
+Binary                   1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   37.15 % 
+CSHTML                   50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+C#                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 ```
 
 
- Last Updated on 18/03/2026 03:00:24 UTC
+ Last Updated on 18/03/2026 03:00:54 UTC
 <!--END_SECTION:waka-->
