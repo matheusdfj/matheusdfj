@@ -18,6 +18,13 @@ I'm **Matheus**, a 23y old developer. Working in algorithms and software develop
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2025%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 27/03/2026 03:00:38 UTC
+```text
+💬 Programming Languages: 
+C#                       0 secs              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 27/03/2026 03:01:03 UTC
 <!--END_SECTION:waka-->
