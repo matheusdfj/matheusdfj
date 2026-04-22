@@ -22,12 +22,9 @@ I'm **Matheus**, a 23y old developer. Working in algorithms and software develop
 
 ```text
 💬 Programming Languages: 
-Razor                    15 mins             ███████████░░░░░░░░░░░░░░   42.42 % 
-CSS                      10 mins             ███████░░░░░░░░░░░░░░░░░░   29.46 % 
-C#                       6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Binary                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/04/2026 03:00:30 UTC
+ Last Updated on 22/04/2026 03:01:06 UTC
 <!--END_SECTION:waka-->
