@@ -22,13 +22,13 @@ I'm **Matheus**, a 23y old developer. Working in algorithms and software develop
 
 ```text
 💬 Programming Languages: 
-C#                       27 mins             █████████░░░░░░░░░░░░░░░░   37.35 % 
-XML                      13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Binary                   11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Razor                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+C#                       44 mins             ████████░░░░░░░░░░░░░░░░░   33.88 % 
+Markdown                 22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Razor                    19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+XML                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Binary                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 ```
 
 
- Last Updated on 03/05/2026 03:00:05 UTC
+ Last Updated on 03/05/2026 03:00:37 UTC
 <!--END_SECTION:waka-->
