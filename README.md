@@ -16,6 +16,13 @@ I'm **Matheus**, a 23y old developer. Working in algorithms and software develop
 
 ## My currently working data (Via WakaTime plugin)
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 29/05/2026 02:12:20 UTC
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 29/05/2026 02:12:47 UTC
 <!--END_SECTION:waka-->
